@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\IG.NexFlow.Core\IG.NexFlow.Core.csproj" />
-  </ItemGroup>
-
 </Project>
